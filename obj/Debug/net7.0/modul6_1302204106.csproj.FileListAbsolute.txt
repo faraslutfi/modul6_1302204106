@@ -1,0 +1,15 @@
+/Users/macbookair/Desktop/Project/Projects/KPL/modul6_1302204106/modul6_1302204106/obj/Debug/net7.0/modul6_1302204106.csproj.AssemblyReference.cache
+/Users/macbookair/Desktop/Project/Projects/KPL/modul6_1302204106/modul6_1302204106/obj/Debug/net7.0/modul6_1302204106.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookair/Desktop/Project/Projects/KPL/modul6_1302204106/modul6_1302204106/obj/Debug/net7.0/modul6_1302204106.AssemblyInfoInputs.cache
+/Users/macbookair/Desktop/Project/Projects/KPL/modul6_1302204106/modul6_1302204106/obj/Debug/net7.0/modul6_1302204106.AssemblyInfo.cs
+/Users/macbookair/Desktop/Project/Projects/KPL/modul6_1302204106/modul6_1302204106/obj/Debug/net7.0/modul6_1302204106.csproj.CoreCompileInputs.cache
+/Users/macbookair/Desktop/Project/Projects/KPL/modul6_1302204106/modul6_1302204106/bin/Debug/net7.0/modul6_1302204106
+/Users/macbookair/Desktop/Project/Projects/KPL/modul6_1302204106/modul6_1302204106/bin/Debug/net7.0/modul6_1302204106.deps.json
+/Users/macbookair/Desktop/Project/Projects/KPL/modul6_1302204106/modul6_1302204106/bin/Debug/net7.0/modul6_1302204106.runtimeconfig.json
+/Users/macbookair/Desktop/Project/Projects/KPL/modul6_1302204106/modul6_1302204106/bin/Debug/net7.0/modul6_1302204106.dll
+/Users/macbookair/Desktop/Project/Projects/KPL/modul6_1302204106/modul6_1302204106/bin/Debug/net7.0/modul6_1302204106.pdb
+/Users/macbookair/Desktop/Project/Projects/KPL/modul6_1302204106/modul6_1302204106/obj/Debug/net7.0/modul6_1302204106.dll
+/Users/macbookair/Desktop/Project/Projects/KPL/modul6_1302204106/modul6_1302204106/obj/Debug/net7.0/refint/modul6_1302204106.dll
+/Users/macbookair/Desktop/Project/Projects/KPL/modul6_1302204106/modul6_1302204106/obj/Debug/net7.0/modul6_1302204106.pdb
+/Users/macbookair/Desktop/Project/Projects/KPL/modul6_1302204106/modul6_1302204106/obj/Debug/net7.0/modul6_1302204106.genruntimeconfig.cache
+/Users/macbookair/Desktop/Project/Projects/KPL/modul6_1302204106/modul6_1302204106/obj/Debug/net7.0/ref/modul6_1302204106.dll
